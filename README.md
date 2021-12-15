@@ -2,7 +2,7 @@
     <img src="https://dekalabs.com/wp-content/uploads/2019/02/dekalabs-logo-web.png" height="40">	
 </p>
 
-# Palabras más frecuentes
+# Palabras más frecuentes.
 
 En este reto tendrás que obtener las palabras más frecuentes del libro " Don Quijote de la Mancha ", lo encontrarás en
 la carpeta ``src``. También te encontrarás con el fichero ``main.py`` y dentro la función que necesitamos que completes.
