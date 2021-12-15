@@ -4,7 +4,7 @@
 
 # Palabras más frecuentes
 
-En este reto tendrás que obtener las palabras más frecuentes del libro "Don Quijote de la Mancha", lo encontrarás en
+En este reto tendrás que obtener las palabras más frecuentes del libro " Don Quijote de la Mancha ", lo encontrarás en
 la carpeta ``src``. También te encontrarás con el fichero ``main.py`` y dentro la función que necesitamos que completes.
 Lee el fichero y extrae las 30 palabras más frecuentes de todo el libro. Pero ojo, por que te puedo
 pedir más palabras o menos.

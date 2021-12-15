@@ -1,9 +1,4 @@
 language: python
-dist: trusty
-cache: false
 python:
  - "3.6"
-install: 
- - pip install -e .
- - git submodule update --init --recursive
 script: python3 -m pytest tests/test_main.py
